@@ -19,6 +19,6 @@ Talk to me about:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhash2807)](https://github.com/Subhash2807/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Subhash2807)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Subhash2807)](https://github.com/Subhash2807/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Subhash2807.Subhash2807)
